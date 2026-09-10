@@ -47,4 +47,4 @@ The application uses a simple data model with meaningful identifiers:
    - Name
    - Grade level
 
-All data is stored in memory, which means data will be reset when the server restarts.
+Activity definitions are stored in `activities.json`. Registration changes are kept in memory, which means participant data will be reset when the server restarts.
